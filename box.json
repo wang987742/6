@@ -201,7 +201,7 @@
 {"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://w.g9.pub:66/381203888/token.txt"}
 ],
 "lives":[
-{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3cuZzkucHViOjY2LzM4MTIwMzg4OC8lRTclOUIlQjQlRTYlOTIlQUQvemIyLnR4dA=="]}]}],
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL3lnYmgxLzY2Ni8tL3Jhdy9tYWluL1pCL0JIWkIudHh0"]}]}],
 
 
 
