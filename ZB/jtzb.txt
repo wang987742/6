@@ -1,3 +1,4 @@
+
 💞月光宝盒,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
@@ -32,6 +33,17 @@ CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8
+凤凰中文,http://jyjxy.7766.org:8811/hls/32/index.m3u8
+凤凰资讯,http://jyjxy.7766.org:8811/hls/33/index.m3u8
+凤凰香港,http://jyjxy.7766.org:8811/hls/34/index.m3u8
+星河台,http://jyjxy.7766.org:8811/hls/35/index.m3u8
+翡翠台,http://jyjxy.7766.org:8811/hls/36/index.m3u8
+明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8
+龙祥电影,http://jyjxy.7766.org:8811/hls/38/index.m3u8
+天映经典,http://jyjxy.7766.org:8811/hls/62/index.m3u8
+东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
+东森样片,http://jyjxy.7766.org:8811/hls/59/index.m3u8
 翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
@@ -87,7 +99,6 @@ J2,http://120.132.122.244:59845/hls/81/index.m3u8
 RTHK31,http://120.132.122.244:59845/hls/89/index.m3u8
 RTHK32,http://120.132.122.244:59845/hls/90/index.m3u8
 RTHK33,http://120.132.122.244:59845/hls/91/index.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 🎈央视直播,#genre#
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
@@ -252,8 +263,6 @@ TVB星河,http://27.47.71.174:8811/hls/35/index.m3u8
 台视,http://23.237.10.66:16344
 台视,http://2023.stream-link.org/playlist/ttv
 台视,http://2023.stream-link.org/playlist/ttv
-台视,http://137.175.36.206:8188/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-台视,http://137.175.36.206:8188/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 台视,http://107.151.203.111:2209/135/us50.php?id=tsk
 中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/.m3u8
@@ -339,35 +348,15 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 峨眉电影,http://182.151.211.171:808/hls/58/index.m3u8
-好莱坞电影,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
-好莱坞电影,http://38.60.38.65:6868/wmm668.php?id=hollywoodmovies_twn
-美亞電影,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-纬来戏剧台,http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
-緯來電影台,http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
 星卫电影台,http://23.237.10.66:16359
-星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
 星衛娛樂台,http://23.237.10.66:16359
-卫视中文台,http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.m3u8
-卫视中文台,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/weishichinese_twn/playlist.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
-HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
-HBO家庭,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
 HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
-HBO家庭,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
-HBO原创,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
-HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
-HBO原创,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
-HBO強檔,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
-CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
-CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
-AXN,http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
-CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
-CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
 东森电影,http://27.47.71.135:8811/hls/58/index.m3u8
 东森电影,http://27.47.71.136:8811/hls/58/index.m3u8
@@ -399,19 +388,13 @@ CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
 龙华电影,http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
 龙华电影,http://116.50.42.21:8575/.m3u8
 龙华日韩,http://123.51.230.108:18551/.m3u8
-八大戲劇,http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.m3u8
+求索纪录,http://39.135.7.132:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索科学,http://39.135.7.132:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 八大第一,http://123.51.230.108:18539/.m3u8
-八大第一,http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
 八大第一,http://123.51.230.108:18539/.m3u8
-八大综合,http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m3u8
 八大综合,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
 八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/.m3u8
-Discovery,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
-Discovery,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
-动物星球,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
 动物星球,http://www.yshmzmc.top/gtjm.php?id=live1004
-DMAX,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
-探索科学,http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.m3u8
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 韩国中文,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8401&q=default
 KBS1,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
@@ -879,6 +862,7 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 金色学堂 8M,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
 
 🍺体育,#genre#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
