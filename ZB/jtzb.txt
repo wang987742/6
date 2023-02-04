@@ -353,8 +353,8 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
-HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
-HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
+HBO,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648
+HBO,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648
 HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
 CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
 东森电影,http://27.47.71.135:8811/hls/58/index.m3u8
