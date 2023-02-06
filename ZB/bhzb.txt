@@ -275,24 +275,30 @@ TVB星河,http://27.47.71.49:8811/hls/35/index.m3u8
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中视新闻,http://2023.stream-link.org/playlist/ctv_news
+中视新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=6
 中視經典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/.m3u8
 中視經典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
 中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 台视新闻,http://2023.stream-link.org/playlist/ttv_news
+台视新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=7
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 民视新闻,http://123.51.230.108:18663/.m3u8
+民视新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=3
 民视新闻,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 民视新闻,http://2023.stream-link.org/playlist/ftv_news
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 华视新闻,http://2023.stream-link.org/playlist/cts_news
+华视新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=4
 华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 中天新闻,http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
+中天新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=11
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
 寰宇新闻台,http://2023.stream-link.org/playlist/global_tw
+寰宇新闻台,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=5
 寰宇新闻台,http://www.yshmzmc.top/gtjm.php?id=live1222
 寰宇新闻台,http://2022.stream-link.org/playlist/global_tw
 寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
@@ -301,6 +307,7 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS歡樂台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
+TVBS新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=2
 TVBS新闻,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
 TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
@@ -316,7 +323,7 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 东森新闻,http://www.yshmzmc.top/gtjm.php?id=live1014
 东森LIVE,http://2023.stream-link.org/playlist/ebc_news
-东森LIVE,http://2023.stream-link.org/playlist/ebc_news
+东森LIVE,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=1
 东森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=2
 东森LIVE,http://2023.stream-link.org/playlist/ebc_news
 東森財經,http://2023.stream-link.org/playlist/ebc_finance
@@ -324,6 +331,9 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 東森yoyo,http://www.yshmzmc.top/gtjm.php?id=live1008
 東森yoyo,http://pull-l3-cny.douyincdn.com/third/stream-adb7cf254b46d42d58828f590a6137bf.m3u8
 東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo
+东森综合,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=8
+镜新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=9
+新唐人亚太台,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=14
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
