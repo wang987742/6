@@ -5629,6 +5629,19 @@ HBO強檔,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56
 明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 香港有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 🔞頻道_88,#genre#
+彩虹e台,mitv://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
+彩虹电影台,mitv://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
+看电视,mitv://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
+潘朵拉玩美台,mitv://generationnexxxt.com:19806/95a3bc8a9acc421eb9469b4c13353028
+惊艳成人电影台,mitv://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
+松视1台,mitv://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
+松视2台,mitv://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
+花花公子,mitv://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
+香草台,mitv://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
+松视3台,mitv://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
+JStar极限台,mitv://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
+快乐,mitv://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
+K,mitv://generationnexxxt.com:19806/3f0ab1d712b24f2ab466ed283f8e7469
 K3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
 网约校花,https://0yefiks35y.motorjn.com/20230122/mTBqEmJZ/index.m3u8
 老婆帮帮忙,https://0yefiks35y.motorjn.com/20230122/ivvwjXL8/index.m3u8
