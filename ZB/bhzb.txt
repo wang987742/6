@@ -255,7 +255,7 @@ ViuTV,http://c-leung.homeip.net:8011/bysid/99
 J2,http://c-leung.homeip.net:8012/bysid/82
 八度空间,http://2022.stream-link.org/playlist/8tv
 TVB星河,http://jydx.jdshipin.com:8081/hls/135/index.m3u8
-TVB星河,http://119.140.58.216:9901/hls/12/index.m3u8
+TVB星河,http://119.140.58.190:9901/hls/12/index.m3u8
 TVB星河,http://27.47.71.203:8811/hls/35/index.m3u8
 TVB星河,http://27.47.71.49:8811/hls/35/index.m3u8
 TVB星河,http://27.47.71.49:8811/hls/35/index.m3u8
@@ -381,11 +381,11 @@ CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
 东森洋片,http://27.47.71.203:8811/hls/59/index.m3u8
 东森洋片,http://27.47.71.49:8811/hls/59/index.m3u8
 东森洋片,http://27.47.71.203:8811/hls/59/index.m3u8
-龙祥电影台,http://27.47.71.203:8811/hls/38/index.m3u8
-龙祥电影台,http://27.47.71.49:8811/hls/38/index.m3u8
-龙祥电影台,http://27.47.71.49:8811/hls/38/index.m3u8
-龙祥电影台,http://27.47.71.203:8811/hls/38/index.m3u8
-龙祥电影台,http://27.47.71.203:8811/hls/38/index.m3u8
+龙祥电影台,http://119.140.58.190:9901/hls/14/index.m3u8
+龙祥电影台,http://119.140.58.190:9901/hls/14/index.m3u8
+龙祥电影台,http://119.140.58.190:9901/hls/14/index.m3u8
+龙祥电影台,http://119.140.58.190:9901/hls/14/index.m3u8
+龙祥电影台,http://119.140.58.190:9901/hls/14/index.m3u8
 龙祥电影台,http://27.47.71.49:8811/hls/38/index.m3u8
 龙祥电影台,http://119.140.58.216:9901/hls/14/index.m3u8
 天映经典,http://27.47.71.203:8811/hls/62/index.m3u8
