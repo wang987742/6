@@ -300,10 +300,10 @@ TVB星河,http://27.47.71.49:8811/hls/35/index.m3u8
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=05
+寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
 寰宇新闻台,http://2023.stream-link.org/playlist/global_tw
 寰宇新闻台,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=5
 寰宇新闻台,http://www.yshmzmc.top/gtjm.php?id=live1222
-寰宇新闻台,http://2022.stream-link.org/playlist/global_tw
 寰宇新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 寰宇新闻台,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
 TVBS HD,http://2023.stream-link.org/playlist/tvbs
@@ -334,9 +334,6 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 東森yoyo,http://www.yshmzmc.top/gtjm.php?id=live1008
 東森yoyo,http://pull-l3-cny.douyincdn.com/third/stream-adb7cf254b46d42d58828f590a6137bf.m3u8
 東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo
-东森综合,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=8
-镜新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=9
-新唐人亚太台,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=14
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
