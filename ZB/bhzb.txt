@@ -250,6 +250,9 @@ CHANNELV 内置解码,http://jydx.jdshipin.com:8081/hls/88/index.m3u8$内置解�
 华丽台,http://23.237.10.66:16410
 华丽台,http://23.237.10.66:16410
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+ViuTVsix,http://c-leung.homeip.net:8011/bysid/96
+ViuTV,http://c-leung.homeip.net:8011/bysid/99
+J2,http://c-leung.homeip.net:8012/bysid/82
 八度空间,http://2022.stream-link.org/playlist/8tv
 TVB星河,http://jydx.jdshipin.com:8081/hls/135/index.m3u8
 TVB星河,http://119.140.58.216:9901/hls/12/index.m3u8
