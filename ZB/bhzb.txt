@@ -397,33 +397,33 @@ CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
 龙华电影,http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
 龙华电影,http://116.50.42.21:8575/.m3u8
 龙华戏剧,http://123.51.230.108:18513/.m3u8
-HBO,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648
-HBO Hits,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941647
-HBO Family Asia,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646
-HBO Signature,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941645
-Cinemax,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659
-卫视电影台,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941625
-卫视中文台,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941624
-天映电影,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941618
-天映经典,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941639
-HUB娱家,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941634
-Channel 5,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&stream=941615&extension=ts
-Channel 8,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&stream=941616&extension=ts
-Channel U,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&stream=941617&extension=ts
-国家地理频道,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941665
-国家地理野生频道,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941664
-History,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941661
-AXN,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660
-WarnerTV,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941652
-CI,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941666
-Lifetime,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941669
-ROCK ENTERTAINMENT,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941643
-TravelXP,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941662
-HITS MOVIES,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941577
-CINEMAWORLD,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941658
-Animax,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941676
-CN卡通频道,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941673
-tvN,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941623
+Discovery,http://www.yshmzmc.top/gtjm.php?id=live1002
+自然,http://www.yshmzmc.top/gtjm.php?id=live1003
+动物星球,http://www.yshmzmc.top/gtjm.php?id=live1004
+TLC,http://www.yshmzmc.top/gtjm.php?id=live1005
+BABY TV,http://www.yshmzmc.top/gtjm.php?id=live1007
+东森幼幼,http://www.yshmzmc.top/gtjm.php?id=live1008
+纬来体育,http://www.yshmzmc.top/gtjm.php?id=live1011
+东森新闻,http://www.yshmzmc.top/gtjm.php?id=live1014
+中天新闻,http://www.yshmzmc.top/gtjm.php?id=live1015
+三立都会台,http://www.yshmzmc.top/gtjm.php?id=live1020
+中天娱乐,http://www.yshmzmc.top/gtjm.php?id=live1023
+卫视中文,http://www.yshmzmc.top/gtjm.php?id=live1024
+HBO,http://www.yshmzmc.top/gtjm.php?id=live1029
+卫视电影台,http://www.yshmzmc.top/gtjm.php?id=live1031
+movie gold,http://www.yshmzmc.top/gtjm.php?id=live1032
+star world,http://www.yshmzmc.top/gtjm.php?id=live1040
+八大第一台,http://www.yshmzmc.top/gtjm.php?id=live1043
+CNN,http://www.yshmzmc.top/gtjm.php?id=live1063
+ELEVEN1,http://www.yshmzmc.top/gtjm.php?id=live1069
+ELEVEN2,http://www.yshmzmc.top/gtjm.php?id=live1072
+年代新闻,http://www.yshmzmc.top/gtjm.php?id=live1077
+三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
+寰宇新闻,http://www.yshmzmc.top/gtjm.php?id=live1222
+博斯运动1,http://www.yshmzmc.top/gtjm.php?id=live1225
+壹新闻,http://www.yshmzmc.top/gtjm.php?id=live1242
+MOMO综合,http://www.yshmzmc.top/gtjm.php?id=live1248
+年代much,http://www.yshmzmc.top/gtjm.php?id=live2002
 求索纪录,http://39.135.7.132:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://39.135.7.132:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 八大第一,http://123.51.230.108:18539/.m3u8
