@@ -334,6 +334,7 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 東森yoyo,http://www.yshmzmc.top/gtjm.php?id=live1008
 東森yoyo,http://pull-l3-cny.douyincdn.com/third/stream-adb7cf254b46d42d58828f590a6137bf.m3u8
 東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo
+东森戏剧,http://123.51.230.108:18538/.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
