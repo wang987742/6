@@ -396,6 +396,7 @@ CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
 龙华电影,http://116.50.42.21:8575/.m3u8
 龙华电影,http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
 龙华电影,http://116.50.42.21:8575/.m3u8
+龙华戏剧,http://123.51.230.108:18513/.m3u8
 HBO,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648
 HBO Hits,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941647
 HBO Family Asia,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646
