@@ -332,6 +332,7 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 三立LIVE+,http://2023.stream-link.org/playlist/set_news+.flv
 三立財經,http://2023.stream-link.org/playlist/set_inews.flv
 三立財經,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 东森新闻,http://www.yshmzmc.top/gtjm.php?id=live1014
 东森LIVE,http://2023.stream-link.org/playlist/ebc_news
