@@ -255,6 +255,7 @@ ViuTV,http://107.167.12.58:38959
 ViuTVsix,http://107.167.12.58:39523
 ViuTV,http://107.167.12.58:36573
 ViuTVsix,http://107.167.12.58:34921
+ViuTVsix,https://v1.qiantutv.com/stream/7dd66f663be024cef495312d10d46a60/index.m3u8
 ViuTVsix,http://c-leung.homeip.net:8011/bysid/96
 ViuTV,http://c-leung.homeip.net:8011/bysid/99
 ViuTV,https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8 
