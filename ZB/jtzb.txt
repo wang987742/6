@@ -252,11 +252,12 @@ CHANNELV 内置解码,http://jydx.jdshipin.com:8081/hls/88/index.m3u8$内置解�
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 明珠台,http://107.167.12.58:36733
 ViuTV,http://107.167.12.58:38959
-ViuTV6six,http://107.167.12.58:39523
+ViuTVsix,http://107.167.12.58:39523
 ViuTV,http://107.167.12.58:36573
 ViuTVsix,http://107.167.12.58:34921
 ViuTVsix,http://c-leung.homeip.net:8011/bysid/96
 ViuTV,http://c-leung.homeip.net:8011/bysid/99
+ViuTV,https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8 
 J2,http://c-leung.homeip.net:8012/bysid/82
 J2,http://107.167.12.58:34819
 J2,http://107.167.12.58:42627
